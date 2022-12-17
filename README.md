@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qaztiel
 - 👀 I’m interested in ... video games, dogs, 4runners, miatas, python, photography, walking
 - 🌱 I’m currently learning ... python
-- 💞️ I’m current working ... tibiaguessr.com, bbttv.com1 
+- 💞️ I’m current working ... tibiaguessr.com, bbttv.com
 - 📫 How to reach me ...
 
 <!---
